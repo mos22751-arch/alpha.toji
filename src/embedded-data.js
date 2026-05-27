@@ -2,8 +2,8 @@ window.TITAN_EMBEDDED_DATA = {
   "site": {
     "brand": {
       "name": "ALPHA.TOJI",
-      "tagline": "Luxury Performance Store",
-      "logoText": "AL.TO",
+      "tagline": "Performance Store",
+      "logoText": "AT",
       "whatsapp": "201102550730",
       "email": "mos22751@gmail.com",
       "phone": "+20 1102550730",
@@ -41,9 +41,9 @@ window.TITAN_EMBEDDED_DATA = {
       }
     ],
     "hero": {
-      "eyebrow": "Shadow Strength Drop",
-      "title": "Move silent.       Train heavy.     Cut sharper.",
-      "subtitle": "A store for gym tools, supplements, compression wear, and accessories.",
+      "eyebrow": "ALPHA.TOJI",
+      "title": "ALPHA.TOJI",
+      "subtitle": "Gym tools, supplements, compression wear, and accessories.",
       "primaryCta": "Enter the Store",
       "secondaryCta": "Open Command",
       "image": "https://pbs.twimg.com/media/FvzeRkyXsAY3DLm?format=jpg&name=4096x4096",
@@ -130,10 +130,10 @@ window.TITAN_EMBEDDED_DATA = {
     ],
     "offers": [
       {
-        "id": "elite-stack",
+        "id": "power-stack",
         "title": {
-          "en": "Elite Stack Bundle",
-          "ar": "باقة Elite Stack"
+          "en": "Power Stack Bundle",
+          "ar": "باقة Power Stack"
         },
         "description": {
           "en": "Compression top + shaker + lifting straps with 18% off.",
@@ -193,8 +193,8 @@ window.TITAN_EMBEDDED_DATA = {
           "ar": "مصمم للرياضيين الجادين."
         },
         "body": {
-          "en": " a premium fitness storefront for people who care about gear quality, clean visuals, and fast ordering.",
-          "ar": "Titan Elite متجر رياضي فاخر لمن يهتم بجودة الأدوات، وضوح التجربة، وسرعة الطلب."
+          "en": "ALPHA.TOJI is a specialized store for gym tools, supplements, and performance gear.",
+          "ar": "ALPHA.TOJI هو متجر متخصص في أدوات الجيم، المكملات، وملابس الأداء الرياضي."
         }
       },
       "privacy": {
@@ -258,7 +258,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Grip feels expensive and stable under heavy sets.",
-            "ar": "?????? ????? ???? ?????? ????? ?? ??????? ??????."
+            "ar": "."
           }
         },
         {
@@ -266,7 +266,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Looks premium and the rubber finish is clean.",
-            "ar": "????? Premium ???????? ??????? ???? ????."
+            "ar": "."
           }
         }
       ]
@@ -307,7 +307,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Clean focus without a sugar crash.",
-            "ar": "????? ???? ?? ??? ???? ??? ??? ???????."
+            "ar": "."
           }
         },
         {
@@ -315,7 +315,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 4,
           "text": {
             "en": "Strong pump and easy mix.",
-            "ar": "Pump ??? ?????? ??????."
+            "ar": "."
           }
         }
       ]
@@ -360,7 +360,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "The fit is sharp and breathable.",
-            "ar": "?????? ????? ??????? ?????? ????."
+            "ar": "."
           }
         },
         {
@@ -368,7 +368,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 4,
           "text": {
             "en": "Great for push days and photos.",
-            "ar": "????? ?? ????? ????? ????? ??? ?? ?????."
+            "ar": "."
           }
         }
       ]
@@ -408,7 +408,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Locked my deadlift grip instantly.",
-            "ar": "???? ???? ????????? ?????."
+            "ar": "."
           }
         },
         {
@@ -416,7 +416,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Padding is comfortable and durable.",
-            "ar": "??????? ???? ?????."
+            "ar": "."
           }
         }
       ]
@@ -457,7 +457,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 4,
           "text": {
             "en": "Looks futuristic and mixes well.",
-            "ar": "???? ??????? ?????? ????."
+            "ar": "."
           }
         },
         {
@@ -465,7 +465,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "The glow detail feels premium.",
-            "ar": "?????? ??????? ?????? ????."
+            "ar": "."
           }
         }
       ]
@@ -507,7 +507,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 5,
           "text": {
             "en": "Smooth texture and no heavy stomach feeling.",
-            "ar": "???? ???? ????? ??? ??? ??????."
+            "ar": "."
           }
         },
         {
@@ -515,7 +515,7 @@ window.TITAN_EMBEDDED_DATA = {
           "rating": 4,
           "text": {
             "en": "Flavor is balanced and not too sweet.",
-            "ar": "?????? ??????? ??? ????? ?????."
+            "ar": "."
           }
         }
       ]
@@ -575,9 +575,9 @@ window.TITAN_EMBEDDED_DATA = {
     ]
   },
   "seo": {
-    "title": "Titan Elite Fitness | Luxury Performance Store",
-    "description": "Premium gym equipment, supplements, compression wear, and training accessories with WhatsApp ordering.",
-    "keywords": "gym equipment, supplements, compression shirts, fitness accessories, luxury fitness store",
+    "title": "ALPHA.TOJI | Performance Store",
+    "description": "Gym equipment, supplements, compression wear, and training accessories.",
+    "keywords": "gym equipment, supplements, compression shirts, fitness accessories",
     "ogImage": "assets/media/intro-swordsman-wide.jpg",
     "canonical": ""
   },
@@ -593,7 +593,7 @@ window.TITAN_EMBEDDED_DATA = {
     "faq": "الأسئلة",
     "privacy": "سياسة الخصوصية",
     "terms": "شروط الاستخدام",
-    "search": "بحث ذكي",
+    "search": "بحث",
     "all": "الكل",
     "addToCart": "أضف للسلة",
     "viewDetails": "التفاصيل",
@@ -608,9 +608,9 @@ window.TITAN_EMBEDDED_DATA = {
     "size": "المقاس",
     "notes": "ملاحظات",
     "sendWhatsapp": "إرسال على واتساب",
-    "featuredCategories": "فئات مصممة للأداء",
+    "featuredCategories": "الفئات المختارة",
     "bestsellers": "الأكثر طلبًا",
-    "premiumShowcase": "واجهة Premium للأبطال",
+    "premiumShowcase": "ALPHA.TOJI",
     "relatedProducts": "منتجات مشابهة",
     "reviews": "التقييمات",
     "notFound": "الصفحة غير موجودة",
@@ -636,7 +636,7 @@ window.TITAN_EMBEDDED_DATA = {
     "faq": "FAQ",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
-    "search": "Smart search",
+    "search": "Search",
     "all": "All",
     "addToCart": "Add to cart",
     "viewDetails": "Details",
@@ -651,9 +651,9 @@ window.TITAN_EMBEDDED_DATA = {
     "size": "Size",
     "notes": "Notes",
     "sendWhatsapp": "Send to WhatsApp",
-    "featuredCategories": "Performance categories",
+    "featuredCategories": "Featured Categories",
     "bestsellers": "Bestsellers",
-    "premiumShowcase": "Premium athlete showcase",
+    "premiumShowcase": "ALPHA.TOJI",
     "relatedProducts": "Related products",
     "reviews": "Reviews",
     "notFound": "Page not found",
@@ -689,7 +689,7 @@ window.TITAN_EMBEDDED_DATA = {
       "faq": "الأسئلة",
       "privacy": "سياسة الخصوصية",
       "terms": "شروط الاستخدام",
-      "search": "بحث ذكي",
+      "search": "بحث",
       "all": "الكل",
       "addToCart": "أضف للسلة",
       "viewDetails": "التفاصيل",
@@ -704,9 +704,9 @@ window.TITAN_EMBEDDED_DATA = {
       "size": "المقاس",
       "notes": "ملاحظات",
       "sendWhatsapp": "إرسال على واتساب",
-      "featuredCategories": "فئات مصممة للأداء",
+      "featuredCategories": "الفئات المختارة",
       "bestsellers": "الأكثر طلبًا",
-      "premiumShowcase": "واجهة Premium للأبطال",
+      "premiumShowcase": "ALPHA.TOJI",
       "relatedProducts": "منتجات مشابهة",
       "reviews": "التقييمات",
       "notFound": "الصفحة غير موجودة",
@@ -732,7 +732,7 @@ window.TITAN_EMBEDDED_DATA = {
       "faq": "FAQ",
       "privacy": "Privacy Policy",
       "terms": "Terms of Use",
-      "search": "Smart search",
+      "search": "Search",
       "all": "All",
       "addToCart": "Add to cart",
       "viewDetails": "Details",
@@ -747,9 +747,9 @@ window.TITAN_EMBEDDED_DATA = {
       "size": "Size",
       "notes": "Notes",
       "sendWhatsapp": "Send to WhatsApp",
-      "featuredCategories": "Performance categories",
+      "featuredCategories": "Featured Categories",
       "bestsellers": "Bestsellers",
-      "premiumShowcase": "Premium athlete showcase",
+      "premiumShowcase": "ALPHA.TOJI",
       "relatedProducts": "Related products",
       "reviews": "Reviews",
       "notFound": "Page not found",

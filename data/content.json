@@ -51,10 +51,10 @@
   ],
   "offers": [
     {
-      "id": "elite-stack",
+      "id": "power-stack",
       "title": {
-        "en": "Elite Stack Bundle",
-        "ar": "باقة Elite Stack"
+        "en": "Power Stack Bundle",
+        "ar": "باقة Power Stack"
       },
       "description": {
         "en": "Compression top + shaker + lifting straps with 18% off.",
@@ -114,8 +114,8 @@
         "ar": "مصمم للرياضيين الجادين."
       },
       "body": {
-        "en": " a premium fitness storefront for people who care about gear quality, clean visuals, and fast ordering.",
-        "ar": "Titan Elite متجر رياضي فاخر لمن يهتم بجودة الأدوات، وضوح التجربة، وسرعة الطلب."
+        "en": "ALPHA.TOJI is a specialized store for gym tools, supplements, and performance gear.",
+        "ar": "ALPHA.TOJI هو متجر متخصص في أدوات الجيم، المكملات، وملابس الأداء الرياضي."
       }
     },
     "privacy": {

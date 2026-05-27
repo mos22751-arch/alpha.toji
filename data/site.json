@@ -1,8 +1,8 @@
 {
   "brand": {
     "name": "ALPHA.TOJI",
-    "tagline": "Luxury Performance Store",
-    "logoText": "AL.TO",
+    "tagline": "Performance Store",
+    "logoText": "AT",
     "whatsapp": "201102550730",
     "email": "mos22751@gmail.com",
     "phone": "+20 1102550730",
@@ -40,9 +40,9 @@
     }
   ],
   "hero": {
-    "eyebrow": "Shadow Strength Drop",
-    "title": "Move silent.       Train heavy.     Cut sharper.",
-    "subtitle": "A store for gym tools, supplements, compression wear, and accessories.",
+    "eyebrow": "ALPHA.TOJI",
+    "title": "ALPHA.TOJI",
+    "subtitle": "Gym tools, supplements, compression wear, and accessories.",
     "primaryCta": "Enter the Store",
     "secondaryCta": "Open Command",
     "image": "https://pbs.twimg.com/media/FvzeRkyXsAY3DLm?format=jpg&name=4096x4096",

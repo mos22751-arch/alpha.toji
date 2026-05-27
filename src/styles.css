@@ -136,6 +136,9 @@ body.no-cursor-glow .cursor-glow {
   gap: 10px;
   font-weight: 900;
   letter-spacing: .08em;
+  background: transparent;
+  border: 0;
+  padding: 0;
 }
 .brand-mark {
   width: 38px;
@@ -143,9 +146,10 @@ body.no-cursor-glow .cursor-glow {
   display: grid;
   place-items: center;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
-  color: #06100e;
-  box-shadow: 0 0 28px color-mix(in srgb, var(--accent), transparent 45%);
+  background: transparent;
+  color: var(--accent);
+  box-shadow: none;
+  border: 1px solid var(--line);
 }
 .nav-links {
   display: flex;

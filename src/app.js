@@ -107,7 +107,6 @@ function renderHeader() {
   document.getElementById("siteHeader").innerHTML = `
     <div class="nav-bar">
       <button class="brand" data-route="home" aria-label="${data.site.brand.name}">
-        <span class="brand-mark">${escapeHtml(data.site.brand.logoText.slice(0, 1))}</span>
         <span>${escapeHtml(data.site.brand.name)}</span>
       </button>
       <nav class="nav-links" aria-label="Primary">${nav}</nav>
@@ -156,12 +155,7 @@ function renderHeroSection() {
           <button class="pill-btn" data-route="shop">${escapeHtml(hero.primaryCta)}</button>
           <button class="ghost-btn" data-command>${escapeHtml(hero.secondaryCta)}</button>
         </div>
-        <div class="intro-feature-row">
-          <span>Offline ready</span>
-          <span>File CMS</span>
-          <span>WhatsApp checkout</span>
-          <span>Compare mode</span>
-        </div>
+
       </div>
       <div class="hero-stats intro-stats">${stats}</div>
     </section>`;
@@ -172,7 +166,6 @@ function sectionCategories() {
     <section class="section reveal">
       <div class="section-head">
         <h2>${translate("featuredCategories")}</h2>
-        <p>${state.lang === "ar" ? "اختار الفئة، فلتر بسرعة، وابدأ طلب واتساب من غير بوابات دفع." : "Choose a category, filter fast, and send your order through WhatsApp."}</p>
       </div>
       <div class="grid category-grid">
         ${data.content.categories.map((cat) => `
@@ -186,22 +179,7 @@ function sectionCategories() {
 }
 
 function sectionShowcase() {
-  return `
-    <section class="section reveal">
-      <div class="glass" style="border-radius:8px;padding:24px;display:grid;grid-template-columns:1.1fr .9fr;gap:18px;align-items:center">
-        <div>
-          <span class="eyebrow">${translate("premiumShowcase")}</span>
-          <h2>${state.lang === "ar" ? "كل تفصيلة متصممة عشان المنتج يبان أغلى وأقوى." : "Every interaction is tuned to make the product feel sharper and more premium."}</h2>
-          <p class="lead">${state.lang === "ar" ? "زجاج ديناميكي، كروت 3D، Glow متفاعل، انتقالات ناعمة، وسلة عائمة تنتهي برسالة واتساب جاهزة." : "Liquid glass, 3D product cards, reactive glow, smooth transitions, and a floating cart that becomes a ready WhatsApp order."}</p>
-        </div>
-        <div class="grid" style="grid-template-columns:repeat(2,1fr)">
-          <div class="mini-card"><strong>Motion</strong><p>Reveal / Parallax / Tilt</p></div>
-          <div class="mini-card"><strong>CMS</strong><p>JSON / Themes / SEO</p></div>
-          <div class="mini-card"><strong>Checkout</strong><p>WhatsApp order flow</p></div>
-          <div class="mini-card"><strong>Static</strong><p>GitHub Pages ready</p></div>
-        </div>
-      </div>
-    </section>`;
+  return ``;
 }
 
 function sectionProducts(products, title = translate("shop")) {
