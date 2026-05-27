@@ -1,0 +1,19 @@
+{
+  "name": "titan-elite-fitness-store",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static luxury fitness store with a local file-based admin CMS.",
+  "scripts": {
+    "start": "node admin/server.js",
+    "admin": "node admin/server.js",
+    "serve": "node admin/server.js",
+    "sync": "node admin/sync-embedded.js"
+  },
+  "keywords": [
+    "static",
+    "fitness",
+    "cms",
+    "luxury-store"
+  ],
+  "license": "UNLICENSED"
+}

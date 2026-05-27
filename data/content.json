@@ -1,0 +1,142 @@
+{
+  "categories": [
+    {
+      "id": "equipment",
+      "name": {
+        "en": "Gym Equipment",
+        "ar": "أدوات الجيم"
+      },
+      "description": {
+        "en": "Precision tools for heavy sessions.",
+        "ar": "معدات دقيقة للتمارين الثقيلة."
+      },
+      "image": "assets/products/category-equipment.jpg"
+    },
+    {
+      "id": "supplements",
+      "name": {
+        "en": "Supplements",
+        "ar": "المكملات"
+      },
+      "description": {
+        "en": "Clean formulas for recovery and power.",
+        "ar": "تركيبات نظيفة للطاقة والاستشفاء."
+      },
+      "image": "assets/products/category-supplements.jpg"
+    },
+    {
+      "id": "compression",
+      "name": {
+        "en": "Compression Wear",
+        "ar": "ملابس كومبرشن"
+      },
+      "description": {
+        "en": "Second-skin fits for training flow.",
+        "ar": "قصات ثابتة كأنها طبقة ثانية."
+      },
+      "image": "assets/products/category-compression.jpg"
+    },
+    {
+      "id": "accessories",
+      "name": {
+        "en": "Accessories",
+        "ar": "الأكسسوارات"
+      },
+      "description": {
+        "en": "Grip, carry, hydrate, repeat.",
+        "ar": "قبضة، حمل، ترطيب، ثم كرر."
+      },
+      "image": "assets/products/category-accessories.jpg"
+    }
+  ],
+  "offers": [
+    {
+      "id": "elite-stack",
+      "title": {
+        "en": "Elite Stack Bundle",
+        "ar": "باقة Elite Stack"
+      },
+      "description": {
+        "en": "Compression top + shaker + lifting straps with 18% off.",
+        "ar": "تيشيرت كومبرشن + شيكر + سترابس بخصم 18%."
+      },
+      "badge": "18% OFF"
+    },
+    {
+      "id": "free-delivery",
+      "title": {
+        "en": "Free Cairo Delivery",
+        "ar": "توصيل مجاني داخل القاهرة"
+      },
+      "description": {
+        "en": "For orders above 3000 EGP through WhatsApp checkout.",
+        "ar": "للطلبات فوق 3000 جنيه عبر واتساب."
+      },
+      "badge": "LIMITED"
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "How do I place an order?",
+        "ar": "إزاي أطلب؟"
+      },
+      "answer": {
+        "en": "Add products to cart, fill your details, and we will open WhatsApp with a ready order message.",
+        "ar": "أضف المنتجات للسلة، املأ بياناتك، وسيتم فتح واتساب برسالة طلب جاهزة."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I change colors and content?",
+        "ar": "هل أقدر أغير الألوان والمحتوى؟"
+      },
+      "answer": {
+        "en": "Yes. ",
+        "ar": "نعم. "
+      }
+    },
+    {
+      "question": {
+        "en": "Is online payment active?",
+        "ar": "هل الدفع الإلكتروني شغال؟"
+      },
+      "answer": {
+        "en": "No payment gateway is connected. Orders are sent to WhatsApp only.",
+        "ar": "لا توجد بوابة دفع. الطلبات تُرسل على واتساب فقط."
+      }
+    }
+  ],
+  "pages": {
+    "about": {
+      "title": {
+        "en": "Built for disciplined athletes.",
+        "ar": "مصمم للرياضيين الجادين."
+      },
+      "body": {
+        "en": " a premium fitness storefront for people who care about gear quality, clean visuals, and fast ordering.",
+        "ar": "Titan Elite متجر رياضي فاخر لمن يهتم بجودة الأدوات، وضوح التجربة، وسرعة الطلب."
+      }
+    },
+    "privacy": {
+      "title": {
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية"
+      },
+      "body": {
+        "en": "Customer details are used only to prepare the WhatsApp order message and complete delivery communication.",
+        "ar": "بيانات العميل تُستخدم فقط لتجهيز رسالة طلب واتساب والتواصل بخصوص التوصيل."
+      }
+    },
+    "terms": {
+      "title": {
+        "en": "Terms of Use",
+        "ar": "شروط الاستخدام"
+      },
+      "body": {
+        "en": "Products, availability, and prices can change. Final confirmation happens through WhatsApp.",
+        "ar": "المنتجات والتوفر والأسعار قابلة للتغيير. التأكيد النهائي يتم عبر واتساب."
+      }
+    }
+  }
+}

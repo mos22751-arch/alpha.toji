@@ -1,0 +1,53 @@
+{
+  "active": "obsidian",
+  "items": [
+    {
+      "id": "obsidian",
+      "name": "Obsidian Gold",
+      "mode": "dark",
+      "colors": {
+        "bg": "#070707",
+        "surface": "rgba(15, 14, 12, 0.78)",
+        "surfaceStrong": "#12110f",
+        "text": "#f5f1e8",
+        "muted": "#b8aa91",
+        "accent": "#d5b15c",
+        "accent2": "#2ed6b3",
+        "hot": "#d84b4b",
+        "gold": "#f3c969"
+      }
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum Studio",
+      "mode": "light",
+      "colors": {
+        "bg": "#f3f4ef",
+        "surface": "rgba(255, 255, 255, 0.72)",
+        "surfaceStrong": "#ffffff",
+        "text": "#111816",
+        "muted": "#5d6a66",
+        "accent": "#007f73",
+        "accent2": "#d24c2f",
+        "hot": "#8a3ffc",
+        "gold": "#9c6b16"
+      }
+    },
+    {
+      "id": "solar",
+      "name": "Solar Carbon",
+      "mode": "dark",
+      "colors": {
+        "bg": "#110d09",
+        "surface": "rgba(29, 21, 13, 0.72)",
+        "surfaceStrong": "#1d170f",
+        "text": "#fff8ec",
+        "muted": "#c5b89d",
+        "accent": "#ffcf5a",
+        "accent2": "#32e6a6",
+        "hot": "#ff5a3d",
+        "gold": "#fff0ad"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "brand": {
+    "name": "ALPHA.TOJI",
+    "tagline": "Luxury Performance Store",
+    "logoText": "AL.TO",
+    "whatsapp": "201102550730",
+    "email": "mos22751@gmail.com",
+    "phone": "+20 1102550730",
+    "address": "Cairo, Egypt"
+  },
+  "settings": {
+    "defaultLanguage": "ar",
+    "defaultTheme": "obsidian",
+    "accent": "#d5b15c",
+    "sound": false,
+    "currency": "EGP",
+    "backgroundType": "image",
+    "backgroundUrl": "https://pbs.twimg.com/media/FvzeRkyXsAY3DLm?format=jpg&name=4096x4096"
+  },
+  "navigation": [
+    {
+      "labelKey": "home",
+      "page": "home"
+    },
+    {
+      "labelKey": "shop",
+      "page": "shop"
+    },
+    {
+      "labelKey": "offers",
+      "page": "offers"
+    },
+    {
+      "labelKey": "about",
+      "page": "about"
+    },
+    {
+      "labelKey": "contact",
+      "page": "contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Shadow Strength Drop",
+    "title": "Move silent.       Train heavy.     Cut sharper.",
+    "subtitle": "A store for gym tools, supplements, compression wear, and accessories.",
+    "primaryCta": "Enter the Store",
+    "secondaryCta": "Open Command",
+    "image": "https://pbs.twimg.com/media/FvzeRkyXsAY3DLm?format=jpg&name=4096x4096",
+    "video": "",
+    "stats": []
+  },
+  "sections": [
+    "hero",
+    "categories",
+    "bestsellers",
+    "offers",
+    "faq",
+    "showcase"
+  ],
+  "footer": {
+    "headline": "Train heavier. Move cleaner. Look sharper.",
+    "note": "Local WhatsApp checkout. No payment gateway is connected.",
+    "links": [
+      {
+        "labelKey": "privacy",
+        "page": "privacy"
+      },
+      {
+        "labelKey": "terms",
+        "page": "terms"
+      },
+      {
+        "labelKey": "faq",
+        "page": "faq"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "revealDistance": 24,
+  "revealDuration": 720,
+  "hoverDepth": 10,
+  "parallaxStrength": 18,
+  "cursorGlow": true,
+  "particles": true,
+  "reducedMotionFallback": true
+}

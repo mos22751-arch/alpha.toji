@@ -1,0 +1,302 @@
+[
+  {
+    "id": "titan-forged-dumbbell",
+    "name": {
+      "en": "Titan Forged Dumbbell Set",
+      "ar": "مجموعة دامبل Titan Forged"
+    },
+    "category": "equipment",
+    "price": 4850,
+    "oldPrice": 5600,
+    "rating": 4.9,
+    "stock": 14,
+    "badge": "Best Seller",
+    "description": {
+      "en": "Rubber-coated steel dumbbells with laser-etched weight marks and premium grip.",
+      "ar": "دامبلز ستيل بطبقة مطاطية وقبضة فاخرة وعلامات وزن محفورة."
+    },
+    "images": [
+      "assets/products/dumbbell.jpg",
+      "assets/products/category-equipment.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "10kg",
+        "15kg",
+        "20kg",
+        "25kg"
+      ],
+      "colors": [
+        "Graphite",
+        "Black"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Omar H.",
+        "rating": 5,
+        "text": {
+          "en": "Grip feels expensive and stable under heavy sets.",
+          "ar": "?????? ????? ???? ?????? ????? ?? ??????? ??????."
+        }
+      },
+      {
+        "name": "Mariam S.",
+        "rating": 5,
+        "text": {
+          "en": "Looks premium and the rubber finish is clean.",
+          "ar": "????? Premium ???????? ??????? ???? ????."
+        }
+      }
+    ]
+  },
+  {
+    "id": "hyperdrive-preworkout",
+    "name": {
+      "en": "Hyperdrive Pre-Workout",
+      "ar": "Hyperdrive بري ورك آوت"
+    },
+    "category": "supplements",
+    "price": 1350,
+    "oldPrice": 1590,
+    "rating": 4.8,
+    "stock": 32,
+    "badge": "Clean Energy",
+    "description": {
+      "en": "Focused energy blend with citrulline, beta-alanine, electrolytes, and zero sugar.",
+      "ar": "طاقة وتركيز مع سيترولين وبيتا ألانين وإلكتروليتس بدون سكر."
+    },
+    "images": [
+      "assets/products/preworkout.jpg",
+      "assets/products/category-supplements.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "30 servings",
+        "60 servings"
+      ],
+      "colors": [
+        "Citrus Ice",
+        "Berry Volt"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Youssef A.",
+        "rating": 5,
+        "text": {
+          "en": "Clean focus without a sugar crash.",
+          "ar": "????? ???? ?? ??? ???? ??? ??? ???????."
+        }
+      },
+      {
+        "name": "Nour K.",
+        "rating": 4,
+        "text": {
+          "en": "Strong pump and easy mix.",
+          "ar": "Pump ??? ?????? ??????."
+        }
+      }
+    ]
+  },
+  {
+    "id": "aero-compression-shirt",
+    "name": {
+      "en": "Aero Compression Shirt",
+      "ar": "تيشيرت Aero كومبرشن"
+    },
+    "category": "compression",
+    "price": 920,
+    "oldPrice": 1100,
+    "rating": 4.7,
+    "stock": 42,
+    "badge": "New Drop",
+    "description": {
+      "en": "Breathable four-way stretch top with sculpted seams and fast-dry fabric.",
+      "ar": "تيشيرت مطاطي بتهوية عالية وقماش سريع الجفاف وقصة رياضية."
+    },
+    "images": [
+      "assets/products/compression.jpg",
+      "assets/products/category-compression.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Obsidian",
+        "Ice",
+        "Volt"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Kareem M.",
+        "rating": 5,
+        "text": {
+          "en": "The fit is sharp and breathable.",
+          "ar": "?????? ????? ??????? ?????? ????."
+        }
+      },
+      {
+        "name": "Ali R.",
+        "rating": 4,
+        "text": {
+          "en": "Great for push days and photos.",
+          "ar": "????? ?? ????? ????? ????? ??? ?? ?????."
+        }
+      }
+    ]
+  },
+  {
+    "id": "onyx-lifting-straps",
+    "name": {
+      "en": "Onyx Lifting Straps",
+      "ar": "سترابس Onyx للرفع"
+    },
+    "category": "accessories",
+    "price": 390,
+    "oldPrice": 490,
+    "rating": 4.9,
+    "stock": 65,
+    "badge": "Grip Tech",
+    "description": {
+      "en": "Padded cotton straps engineered for deadlifts, rows, and pull-focused sessions.",
+      "ar": "سترابس قطنية مبطنة للدِدليفت والرو وتمارين السحب."
+    },
+    "images": [
+      "assets/products/straps.jpg",
+      "assets/products/category-accessories.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "One Size"
+      ],
+      "colors": [
+        "Black",
+        "Cyan Stitch"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Hassan D.",
+        "rating": 5,
+        "text": {
+          "en": "Locked my deadlift grip instantly.",
+          "ar": "???? ???? ????????? ?????."
+        }
+      },
+      {
+        "name": "Salma T.",
+        "rating": 5,
+        "text": {
+          "en": "Padding is comfortable and durable.",
+          "ar": "??????? ???? ?????."
+        }
+      }
+    ]
+  },
+  {
+    "id": "pulse-smart-shaker",
+    "name": {
+      "en": "Pulse Smart Shaker",
+      "ar": "شيكر Pulse الذكي"
+    },
+    "category": "accessories",
+    "price": 740,
+    "oldPrice": 0,
+    "rating": 4.6,
+    "stock": 28,
+    "badge": "LED Mix",
+    "description": {
+      "en": "Rechargeable mixer shaker with measurement glow and silent vortex action.",
+      "ar": "شيكر شحن بخلط دوّامي هادئ ومؤشر إضاءة للقياس."
+    },
+    "images": [
+      "assets/products/shaker.jpg",
+      "assets/products/category-accessories.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "650ml",
+        "850ml"
+      ],
+      "colors": [
+        "Smoke",
+        "Frost"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Laila E.",
+        "rating": 4,
+        "text": {
+          "en": "Looks futuristic and mixes well.",
+          "ar": "???? ??????? ?????? ????."
+        }
+      },
+      {
+        "name": "Adam N.",
+        "rating": 5,
+        "text": {
+          "en": "The glow detail feels premium.",
+          "ar": "?????? ??????? ?????? ????."
+        }
+      }
+    ]
+  },
+  {
+    "id": "prime-whey-isolate",
+    "name": {
+      "en": "Prime Whey Isolate",
+      "ar": "Prime Whey Isolate"
+    },
+    "category": "supplements",
+    "price": 2650,
+    "oldPrice": 2990,
+    "rating": 4.8,
+    "stock": 18,
+    "badge": "High Protein",
+    "description": {
+      "en": "Fast-digesting isolate protein with smooth texture and premium flavor system.",
+      "ar": "واي آيزوليت سريع الامتصاص بقوام ناعم ونكهات فاخرة."
+    },
+    "images": [
+      "assets/products/whey.jpg",
+      "assets/products/preworkout.jpg"
+    ],
+    "variants": {
+      "sizes": [
+        "2lb",
+        "5lb"
+      ],
+      "colors": [
+        "Chocolate",
+        "Vanilla",
+        "Salted Caramel"
+      ]
+    },
+    "reviews": [
+      {
+        "name": "Mazen F.",
+        "rating": 5,
+        "text": {
+          "en": "Smooth texture and no heavy stomach feeling.",
+          "ar": "???? ???? ????? ??? ??? ??????."
+        }
+      },
+      {
+        "name": "Dina P.",
+        "rating": 4,
+        "text": {
+          "en": "Flavor is balanced and not too sweet.",
+          "ar": "?????? ??????? ??? ????? ?????."
+        }
+      }
+    ]
+  }
+]
